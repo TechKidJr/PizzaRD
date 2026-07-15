@@ -17,3 +17,5 @@ If you want to add/fix something or just improve the code please open a pull req
 # Fair use
 If you're planning to use this or integrate it into your own launcher please credit me and respect the license.
 If you're an Epic Games employee and have an issue with this please open a GitHub issue.
+
+e
