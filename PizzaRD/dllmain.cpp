@@ -7,8 +7,8 @@
 #include <MinHook.h>
 #pragma comment(lib, "libMinHook.x64.lib")
 
-const LPCWSTR REDIRECT_IP = L"Your IP";
-const INTERNET_PORT REDIRECT_PORT =  80;
+const LPCWSTR REDIRECT_IP = L"127.0.0.1";
+const INTERNET_PORT REDIRECT_PORT =  3551;
 const bool HTTPS = false;
 const bool CONSOLE = false;
 
